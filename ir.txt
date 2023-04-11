@@ -1,17 +1,3 @@
-application and confi
-deleted at - update manually
-
-go to prod server
-	admin/ php artisan 
-
-
-
-EAI_SYNC_URL=http://10.14.86.36:7280/prj_HsbbEai_Sync_Portal_Inbound_War/httpMessageReceiver.do
-#EAI_SYNC_URL=http://10.14.29.4:7280/prj_HsbbEai_Sync_War/httpMessageReceiver.do
-
-10.14.86.36 7280
-
-TMSC OUTLET - BYPASSES PAYMENT FOR FOREIGNER
-- hardcoded that all payment are bypassed
-
-
+123456
+123456
+123456
